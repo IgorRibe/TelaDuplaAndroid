@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="custo_do_servi_o">Custo do serviço</string>
+    <string name="como_foi_o_servi_o">Como foi o serviço?</string>
+    <string name="amazing_service">Incrivel (20%)</string>
+</resources>
