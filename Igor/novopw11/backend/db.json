@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso Angular",
+      "validade": "2021-12-31",
+      "precoProduto": 550.54
+    },
+    {
+      "id": 2,
+      "nome": "Curso Ionic",
+      "validade": "2021-12-31",
+      "precoProduto": 400
+    },
+    {
+      "nome": "Curso de C#",
+      "validade": "2022-07-01",
+      "precoProduto": 500,
+      "id": 3
+    },
+    {
+      "nome": "Curso de Angular",
+      "validade": "2022-06-30",
+      "precoProduto": 400,
+      "id": 4
+    },
+    {
+      "nome": "teste",
+      "validade": "2022-06-22",
+      "precoProduto": 4.99,
+      "id": 5
+    },
+    {
+      "nome": "Igor Teste",
+      "validade": "2003-03-07",
+      "precoProduto": 9999,
+      "id": 6
+    }
+  ]
+}
